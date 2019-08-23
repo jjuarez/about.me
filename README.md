@@ -35,7 +35,7 @@ My experience includes several positions, from project management and team lead,
 
 If I had to define Clarity's responsibilities, I would say that I am the person who intends to help the company reach its next level of maturity, trying to evangelize about how an SRE team can add a lot of value to our product.
 
-### DevOps advocade, [Fon](https://www.fon.com/)
+### DevOps advocate, [Fon](https://www.fon.com/)
 
 `Blameless IR` `Capacity planning` `DR planning` `AWS` `Packer` `Terraform` `Puppet` `Kubernetes` `Docker` `gitlab-ci` `Jenkins` `bash` `Prometheus` `MongoDB`
 
