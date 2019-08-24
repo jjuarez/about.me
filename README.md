@@ -87,9 +87,9 @@ Helping to push the digital transformation plan for the CSIC corporation.
 
 `Boots ACE IPC Framework` `CORBA` `SNMP` `C++` `Perl` `bash` `Oracle`
 
-### 2002 - 2005
+#### 2002 - 2005
 
-Leading several initiatives like: Electronic invoicing system, MMS gateway, Implementation of the OSA 3GPP interface and middleware for two different stacks CORBA and Web services reative developer, crafting immersive web experiences, managing traditional media ads to interactive solutions.
+Leading the project of the implementation of the OSA 3GPP interfaces and middleware software for Telefónica Moviles España, in order to open their systems to the Virtual Operators. During this peridod of time I also led other projects and initiatives such as: An electronic invoicing system, MMS gateway, among others.
 
 ### Software Developer, [Orange](http://www.orange.es/)
 
@@ -115,7 +115,7 @@ Developing an API for management and configuration of the Siemens AS-Interface b
 
 ## A little More About me
 
-Years ago I could be called a mountaineer, although I always carry the call of the mountain with me. I'm a true believer in the FOSS, DevOps avocet, and agile thinking, you could define my goal as help to make the things happen working as a team.
+Years ago I could be called a mountaineer, although I always carry the call of the mountain with me. I'm a true believer in the FOSS, DevOps avocate, and agile thinking, you could define my goal as help to make the things happen working as a team.
 
 ## Personal Achievements
 
@@ -125,3 +125,4 @@ Years ago I could be called a mountaineer, although I always carry the call of t
 * I’m quite proud having helped to made a complex system for a really big Telco with only 5 person team, which became a big competitor in the MVNO/MVNE context back then
 * I won a honorific mention making a home automation system in 1996 (no, it wasn’t the time of IoT back in those days)
 * I’ve learned to solve the Rubik’s cube after having turned forty
+
