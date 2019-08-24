@@ -23,7 +23,7 @@ Father, mountainer sould, tech junkie, cat lover and vannaut.
 
 My professional profile could be defined as a “all terrain” person. I come to Operations / SRE / DevOps from the software development field, through the unknown and tough territories of system integrations.
 
-My experience includes several positions, from project management and team lead, to software and cloud architecture, and some other *not so common* contexts, for example embedded industrial systems development, and of course working in a wide array of business like retail, Telco, Government, etc
+My experience includes very different profiles ranging from project management or team lead, to software and cloud architecture, and some other *not so common* contexts, for example embedded industrial systems development, and of course working in a wide array of business like retail, Telco, Government, etc
 
 ## Experience
 
