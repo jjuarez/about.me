@@ -27,6 +27,10 @@ My experience includes very different profiles ranging from project management o
 
 ## Experience
 
+### SRE advocate, [IBM Research](https://www.research.ibm.com/)
+
+>Too early to say know how to help here...
+
 ### SRE lead, [Clarity.ai](https://clarity.ai/)
 
 `Blameless IR` `Capacity planning` `DR planning` `AWS` `Packer` `Terraform` `ansible` `Kubernetes` `Docker` `gitlab-ci` `python` `bash` `Prometheus` `MongoDB` `MySQL` `PostgreSQL`
