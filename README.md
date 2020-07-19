@@ -3,7 +3,7 @@
 <img align="right" src="https://avatars.githubusercontent.com/jjuarez?v=4&s=120">
 
 <p align="left">
-<a alt="SRE"><img src="https://img.shields.io/badge/SRE-4%20years-green.svg" /></a>
+<a alt="SRE"><img src="https://img.shields.io/badge/SRE-6%20years-green.svg" /></a>
 <a alt="Sysadmin"><img src="https://img.shields.io/badge/Sysadmin-4%20years-green.svg" /></a>  
 <a alt="System integrator"><img src="https://img.shields.io/badge/Systems%20integrator-2+%20years-green.svg" /></a>
 <a alt="Sofware Engineer"><img src="https://img.shields.io/badge/Sofware%20Engineer-6+%20years-green.svg" /></a>
@@ -29,7 +29,7 @@ My experience includes very different profiles ranging from project management o
 
 ### SRE advocate, [IBM Research](https://www.research.ibm.com/)
 
->Too early to say know how to help here...
+>Too early to say know how could help here...
 
 ### SRE lead, [Clarity.ai](https://clarity.ai/)
 
